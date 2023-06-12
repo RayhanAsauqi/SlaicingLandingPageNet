@@ -42,7 +42,7 @@ body {
 
 .dropdown-container {
   display:flex;
-  border: px solid white;
+  border: 2px solid black;
   padding: 0.4rem;
   border-radius: 4px;
   background: rgba(0, 0, 0, 0.4);
@@ -50,7 +50,7 @@ body {
 
 .signin-button {
   background-color: #dc030f;
-  border: 4px solid #dc030f;
+  border: 2px solid #dc030f;
   color: white;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
